@@ -16,15 +16,6 @@ public class Main {
         flower1.color();
 
         System.out.println(flower1.equals(flower2));
-
-
-
-
     }
-
-
-
-
-
 }
 
